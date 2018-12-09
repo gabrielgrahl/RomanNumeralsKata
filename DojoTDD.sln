@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DojoTDD", "DojoTDD\DojoTDD.csproj", "{098B471A-FA65-4889-B508-F03CD982A2BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098B471A-FA65-4889-B508-F03CD982A2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098B471A-FA65-4889-B508-F03CD982A2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098B471A-FA65-4889-B508-F03CD982A2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098B471A-FA65-4889-B508-F03CD982A2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FFB16EE-4311-4139-9580-B5CFCFB114CD}
+	EndGlobalSection
+EndGlobal
